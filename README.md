@@ -112,6 +112,3 @@ Confusion matrices and accuracy plots are used for visual inspection.
 
 ---
 
-
-📧 sivaluxan@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/sivaluxan) | [GitHub](https://github.com/sivaluxan)
