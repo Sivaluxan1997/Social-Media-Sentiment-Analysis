@@ -1,11 +1,11 @@
-# 🧠 Sentiment Analysis on Social Media Posts
+# Sentiment Analysis on Social Media Posts
 
 This project performs **Sentiment Analysis** on social media posts to classify emotions or opinions as **Positive**, **Negative**, or **Neutral**.  
 It demonstrates the full machine learning workflow — from data preprocessing and visualization to model training and evaluation — all inside a single Jupyter Notebook.
 
 ---
 
-## 🪄 Overview
+##  Overview
 
 Sentiment analysis is a Natural Language Processing (NLP) task used to determine whether text expresses positive, negative, or neutral emotion.  
 This notebook builds a **machine learning pipeline** that processes text data and predicts sentiment labels.
@@ -33,7 +33,7 @@ Example:
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 Main preprocessing steps:
 - Lowercasing and punctuation removal  
@@ -51,7 +51,7 @@ X = vectorizer.fit_transform(data['Text'])
 
 ---
 
-## 🔍 Exploratory Analysis
+## Exploratory Analysis
 
 The notebook includes visual exploration of:
 - Sentiment distribution  
@@ -70,7 +70,7 @@ sns.countplot(data=data, x='Sentiment')
 
 ---
 
-## 🤖 Model Training
+## Model Training
 
 A **Logistic Regression** classifier was trained to predict sentiments.
 
